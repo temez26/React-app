@@ -46,14 +46,7 @@ The routes in the app are defined in `appRoutes.js` file. Here are the details o
     - `loop`: Indicates whether the video should loop.
     - `cloud_name`: The name of the cloud used for hosting the video.
 
-### Usage
 
-To run the app, follow these steps:
-
-1. Install the necessary dependencies.
-2. Build the project.
-3. Start the server.
-4. Access the app through the provided URL.
 
 ### Installation
 
