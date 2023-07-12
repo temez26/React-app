@@ -60,7 +60,7 @@ To install the necessary dependencies, navigate to the root directory of the pro
 npm install
 ```
 
-This will install all the required packages and dependencies for the app.
+
 
 
 
